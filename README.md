@@ -1,6 +1,6 @@
 # Graph RAG: PDF Knowledge Ingestion with Neo4j + Qdrant (n8n Workflow)
 
-An automated Graph RAG (Retrieval-Augmented Generation) pipeline built on **n8n** that ingests PDF documents, builds a **Neo4j knowledge graph** of entities and relationships, indexes the same content into a **Qdrant vector store**, and exposes both to a conversational AI agent capable of multi-hop reasoning. Inspired by NVIDIA's knowledge graph and Graph RAG architecture patterns.
+An automated Graph RAG (Retrieval-Augmented Generation) pipeline built on **n8n** that ingests PDF documents, builds a **Neo4j knowledge graph** of entities and relationships, indexes the same content into a **Qdrant vector store**, and exposes both to a conversational AI agent capable of multi-hop reasoning. Inspired by NVIDIA's knowledge graph and Graph RAG architecture patterns. 
 
 ---
 
